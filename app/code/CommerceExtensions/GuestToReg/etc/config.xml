@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2018 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Store/etc/config.xsd">
+	<default>
+		<guesttoreg>
+			<guesttoreg>
+				<sender_email_identity>general</sender_email_identity>
+			</guesttoreg>
+		</guesttoreg>
+    </default>
+</config>
