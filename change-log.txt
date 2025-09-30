@@ -1,0 +1,5 @@
+05.22.2018 - fixed bug with missing firstname / last name on events fired by observer.. changed createcustomer method to return customer model vs customer_id and passed name back to order object
+
+06.05.2018 - fixed bug on convert customers missing first/lsat name on admin conversion only. Also fixed bug bcc emails not sending.
+
+05.20.2019 - fixed bug when it tries to send a BBC email but no BBC email exists.. added correct check for this
